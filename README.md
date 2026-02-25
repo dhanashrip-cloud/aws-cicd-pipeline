@@ -20,4 +20,3 @@ GitHub → CodePipeline → CodeBuild → S3 (Live Website)
 5. Website is live within minutes
 
 ## Live Demo
-[Link to your S3 website URL here]
